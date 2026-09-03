@@ -28,21 +28,30 @@ const saigetsu = {
 
 ## 🎮 Current quests
 
-<div align="center">
-  <a href="https://github.com/Saigetsu233/ai-workflow-automation">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Saigetsu233&repo=ai-workflow-automation&theme=tokyonight&hide_border=true" alt="AI Workflow Automation" />
-  </a>
-  <a href="https://github.com/Saigetsu233/harness-jp-si">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Saigetsu233&repo=harness-jp-si&theme=tokyonight&hide_border=true" alt="Harness JP SI" />
-  </a>
-  <a href="https://github.com/Saigetsu233/freightkit-calculators">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Saigetsu233&repo=freightkit-calculators&theme=tokyonight&hide_border=true" alt="FreightKit Calculators" />
-  </a>
-</div>
-
-- 🤖 **AI Workflow Automation** — deterministic workflow execution, AI-assisted planning, and explicit human approval checkpoints.
-- 🧩 **Harness JP SI** — a six-role, multi-agent delivery harness with governance, review gates, and 75 structural checks.
-- 🚢 **ShipMathLab / FreightKit** — 20 live browser tools and reusable shipping formulas. **[Try the live product →](https://shipmathlab.com/)**
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>🤖 <a href="https://github.com/Saigetsu233/ai-workflow-automation">AI Workflow Automation</a></h3>
+<p><code>FastAPI</code> <code>React</code> <code>Human approval</code></p>
+<p>Turns fuzzy requests into deterministic, reviewable workflows—with AI helping and humans holding the launch key.</p>
+<p><a href="https://github.com/Saigetsu233/ai-workflow-automation"><b>Enter the workflow lab →</b></a></p>
+</td>
+<td width="50%" valign="top">
+<h3>🧩 <a href="https://github.com/Saigetsu233/harness-jp-si">Harness JP SI</a></h3>
+<p><code>Multi-agent</code> <code>Governance</code> <code>75 checks</code></p>
+<p>A six-role delivery harness for AI-assisted Japanese SI projects, complete with review gates and guardrails.</p>
+<p><a href="https://github.com/Saigetsu233/harness-jp-si"><b>Inspect the harness →</b></a></p>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+<h3>🚢 <a href="https://github.com/Saigetsu233/freightkit-calculators">ShipMathLab / FreightKit</a></h3>
+<p><code>20 live tools</code> <code>Shipping math</code> <code>Embeddable</code></p>
+<p>Browser-ready freight calculators and reusable formulas for dimensional weight, pallet loads, and LCL W/M.</p>
+<p><a href="https://shipmathlab.com/"><b>Play with the live tools →</b></a></p>
+</td>
+</tr>
+</table>
 
 <details>
 <summary><b>🔎 Peek inside the builds</b></summary>
