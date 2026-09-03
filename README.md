@@ -74,8 +74,7 @@ const saigetsu = {
 ## 📊 Player stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Saigetsu233&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Saigetsu GitHub stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=Saigetsu233&theme=tokyonight&hide_border=true" alt="Saigetsu contribution streak" />
+  <img width="68%" src="https://streak-stats.demolab.com?user=Saigetsu233&theme=tokyonight&hide_border=true" alt="Saigetsu contribution streak" />
 </div>
 
 <picture>
