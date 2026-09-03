@@ -1,57 +1,103 @@
-# Hi, I'm Saigetsu 👋
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A2CD8,48:0099D8,100:D92F91&height=190&section=header&text=Saigetsu%20%F0%9F%8C%99&fontSize=54&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=AI%20Product%20Engineer%20%E2%80%A2%20Workflow%20Alchemist%20%E2%80%A2%20Developer%20Tools&descAlignY=58&descSize=17" alt="Saigetsu banner" />
+</p>
 
-**AI Product Engineer · Workflow Automation · Developer Tools**
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1100&color=9D6CFF&center=true&vCenter=true&width=680&lines=Turning+messy+ideas+into+software+that+ships+%E2%9C%A8;Human-in-the-loop%2C+fun-in-the-loop+%F0%9F%8E%AE;Ship+it.+Test+it.+Make+it+sparkle.+%F0%9F%9A%80" alt="Typing intro" />
+  <br />
+  <img src="https://img.shields.io/badge/BUILDING_IN_PUBLIC-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Building in public" />
+  <img src="https://img.shields.io/badge/HUMAN_IN_CONTROL-0891B2?style=for-the-badge&logo=probot&logoColor=white" alt="Human in control" />
+  <img src="https://img.shields.io/badge/PLAYFUL_BY_DEFAULT-DB2777?style=for-the-badge&logo=sparkfun&logoColor=white" alt="Playful by default" />
+</div>
 
-I turn ambiguous business processes into software that can be run, reviewed, deployed, and measured. My projects combine product thinking, full-stack implementation, human-in-the-loop AI, documentation, and public validation.
+## 👾 Player profile
 
-我专注于把模糊的业务流程做成可运行、可部署、可验证的软件，方向包括 AI 工作流、人机协作、开发工具与小型产品实验。
+```ts
+const saigetsu = {
+  role: "AI Product Engineer",
+  quests: ["workflow automation", "developer tools", "small product experiments"],
+  superpower: "turning ambiguity into shippable systems",
+  fuel: ["coffee", "curiosity", "fresh powder"],
+  rule: "keep humans in control of consequential AI actions",
+  status: "building in public 🚀",
+};
+```
 
-曖昧な業務フローを、実行・検証・改善できるソフトウェアに落とし込むことを得意としています。
+> 我喜欢把模糊的业务流程，炼成可运行、可部署、可验证的软件。  
+> 曖昧な業務フローを、実行・検証・改善できるプロダクトへ。
 
-## Featured work
+## 🎮 Current quests
 
-### [AI Workflow Automation](https://github.com/Saigetsu233/ai-workflow-automation)
+<div align="center">
+  <a href="https://github.com/Saigetsu233/ai-workflow-automation">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Saigetsu233&repo=ai-workflow-automation&theme=tokyonight&hide_border=true" alt="AI Workflow Automation" />
+  </a>
+  <a href="https://github.com/Saigetsu233/harness-jp-si">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Saigetsu233&repo=harness-jp-si&theme=tokyonight&hide_border=true" alt="Harness JP SI" />
+  </a>
+  <a href="https://github.com/Saigetsu233/freightkit-calculators">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Saigetsu233&repo=freightkit-calculators&theme=tokyonight&hide_border=true" alt="FreightKit Calculators" />
+  </a>
+</div>
+
+- 🤖 **AI Workflow Automation** — deterministic workflow execution, AI-assisted planning, and explicit human approval checkpoints.
+- 🧩 **Harness JP SI** — a six-role, multi-agent delivery harness with governance, review gates, and 75 structural checks.
+- 🚢 **ShipMathLab / FreightKit** — 20 live browser tools and reusable shipping formulas. **[Try the live product →](https://shipmathlab.com/)**
+
+<details>
+<summary><b>🔎 Peek inside the builds</b></summary>
+<br />
 
 [![AI Workflow Automation workflow designer](assets/workflow-designer.png)](https://github.com/Saigetsu233/ai-workflow-automation)
 
-A self-hosted React and FastAPI platform for GitHub-backed work, deterministic workflow execution, AI-assisted planning, and explicit human approval checkpoints. It demonstrates full-stack architecture, stateful workflow design, API integrations, and honest alpha-stage product documentation.
-
-### [Harness JP SI](https://github.com/Saigetsu233/harness-jp-si)
-
 [![Harness JP SI overview](assets/harness-overview.png)](https://github.com/Saigetsu233/harness-jp-si)
-
-A multi-agent delivery harness for AI-assisted software projects using Japanese SI practices. It encodes six delivery roles, escalation rules, artifact routing, task-weight classification, review gates, and cross-role consultation for Claude Code, Codex, Copilot, Cursor, and Gemini CLI.
-
-### [ShipMathLab / FreightKit Calculators](https://github.com/Saigetsu233/freightkit-calculators)
 
 [![ShipMathLab dimensional weight calculator](assets/shipmathlab-dimensional-weight.png)](https://shipmathlab.com/tools/dimensional-weight-calculator)
 
-A live English shipping-tool product with 20 browser-based calculators and 47 published URLs. The companion repository exposes tested JavaScript formulas and copyable embeds for dimensional weight, pallet capacity, and ocean LCL W/M calculations.
+</details>
 
-**Live product:** [shipmathlab.com](https://shipmathlab.com/) · **Source:** [freightkit-calculators](https://github.com/Saigetsu233/freightkit-calculators)
+## 🧰 Tech inventory
 
-## Evidence at a glance
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,ts,react,vite,nodejs,docker,sqlite,git,github,githubactions,html,css,js&perline=7" alt="Technology stack" />
+</div>
+
+## 📊 Player stats
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Saigetsu233&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Saigetsu GitHub stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Saigetsu233&theme=tokyonight&hide_border=true" alt="Saigetsu contribution streak" />
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Saigetsu233/Saigetsu233/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Saigetsu233/Saigetsu233/output/github-snake.svg" />
+  <img width="100%" alt="Contribution snake" src="https://raw.githubusercontent.com/Saigetsu233/Saigetsu233/output/github-snake.svg" />
+</picture>
+
+<details>
+<summary><b>🧪 Proof of work</b></summary>
+<br />
 
 | Project | What is implemented | Verification |
 | --- | --- | --- |
 | AI Workflow Automation | React, FastAPI, workflow engine, GitHub/OpenAI integration, human checkpoints | Production frontend build and backend health smoke test |
 | Harness JP SI | Six roles, multi-platform bootstrap, hooks, skills, templates, governance rules | 75 structural checks passing |
-| ShipMathLab | 20 live tools, guides, SEO pages, public formulas, embeddable calculators | Four formula tests passing; live public deployment |
+| ShipMathLab | 20 live tools, guides, SEO pages, public formulas, embeddable calculators | Formula tests passing; live public deployment |
 
-## How I work
+</details>
 
-- Start with the user problem and make assumptions visible.
-- Keep humans in control of consequential AI actions.
-- Build an end-to-end vertical slice before expanding scope.
-- Treat tests, security hygiene, documentation, and deployment as part of the product.
-- Publish evidence and measure real usage before scaling an idea.
+## 🛰️ Open channel
 
-## Technology
+I am interested in **AI product engineering**, **workflow automation**, **developer tooling**, and full-stack roles where product judgment matters alongside implementation.
 
-`Python` · `FastAPI` · `TypeScript` · `React` · `GitHub APIs` · `OpenAI APIs` · `Docker` · `SQLite` · `JavaScript` · `HTML/CSS`
+For project-specific questions, open an issue in the relevant repository. Pull requests, curious questions, and slightly over-engineered ideas are all welcome. 🛸
 
-## What I'm looking for
+<p align="center">
+  <i>🏂 Carving through messy workflows, one clean commit at a time.</i>
+</p>
 
-I am especially interested in AI product engineering, workflow automation, developer tooling, and full-stack software roles where product judgment matters alongside implementation.
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D92F91,52:0099D8,100:6A2CD8&height=105&section=footer" alt="Footer" />
+</p>
 
-For project-specific questions, please open an issue in the relevant repository or contact me through GitHub.
