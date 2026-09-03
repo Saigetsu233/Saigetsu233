@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Saigetsu233/Saigetsu233/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Saigetsu233/Saigetsu233/output/github-snake.svg" />
+  <img width="100%" alt="Contribution snake" src="https://raw.githubusercontent.com/Saigetsu233/Saigetsu233/output/github-snake.svg" />
+</picture>
+
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A2CD8,48:0099D8,100:D92F91&height=190&section=header&text=Saigetsu%20%F0%9F%8C%99&fontSize=54&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=AI%20Product%20Engineer%20%E2%80%A2%20Workflow%20Alchemist%20%E2%80%A2%20Developer%20Tools&descAlignY=58&descSize=17" alt="Saigetsu banner" />
 </p>
@@ -76,12 +82,6 @@ const saigetsu = {
 <div align="center">
   <img width="68%" src="https://streak-stats.demolab.com?user=Saigetsu233&theme=tokyonight&hide_border=true" alt="Saigetsu contribution streak" />
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Saigetsu233/Saigetsu233/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Saigetsu233/Saigetsu233/output/github-snake.svg" />
-  <img width="100%" alt="Contribution snake" src="https://raw.githubusercontent.com/Saigetsu233/Saigetsu233/output/github-snake.svg" />
-</picture>
 
 <details>
 <summary><b>🧪 Proof of work</b></summary>
